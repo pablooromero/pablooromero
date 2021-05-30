@@ -1,4 +1,11 @@
 ### Hola soy Pablo!🖐
+Soy un Front-End Developer 👨‍💻 muy apasionado con este hermoso mundo de la programación.
+Actualmente trabajando con las siguientes tecnologias:
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
+-React
 
 <!--
 **pablooromero/pablooromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
