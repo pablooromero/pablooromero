@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Pablo!</h1>
 <h3 align="center">Soy un frontend developer muy apasionado con este hermoso mundo de la programación</h3>
 
+- 🔭 Actualmente en busca de mi primer trabajo que me permita crecer y mejorar!
+
 - 🌱 Aprendiendo y mejorando las siguientes tecnologías **React, Redux**
 
 - 👨‍💻 Todos mis proyectos los puedes ver acá en mi Github o en mi Portfolio [https://pablooromero.github.io/Portfolio-Personal/](https://pablooromero.github.io/Portfolio-Personal/)
