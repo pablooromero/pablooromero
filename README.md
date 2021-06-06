@@ -3,7 +3,7 @@
 
 - 🔭 Estoy en busca de mi primer trabajo en una empresa que me permita crecer y mejorar.
 
-- 🤝 Actualmente trabajando en un proyecto para un cliente.
+- 🤝 Trabajando en mi primer proyecto para un cliente.
 
 
 - 🌱 Actualmente aprendiendo y mejorando las siguientes tecnologías: **React, Redux**
