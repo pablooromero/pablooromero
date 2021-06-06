@@ -3,6 +3,9 @@
 
 - 🔭 Estoy en busca de mi primer trabajo en una empresa que me permita crecer y mejorar.
 
+- 🤝 Actualmente trabajando en un proyecto para un cliente.
+
+
 - 🌱 Actualmente aprendiendo y mejorando las siguientes tecnologías: **React, Redux**
 
 - 👨‍💻 Todos mis proyectos los puedes ver acá en mi Github o en mi Portfolio [https://pablooromero.github.io/Portfolio-Personal/](https://pablooromero.github.io/Portfolio-Personal/)
